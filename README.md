@@ -1,4 +1,4 @@
-# googlesearch on terminal
+# google search on terminal
 This code is to search on google.com and display on terminal. You can copy and paste the result on terminal to word or other.
 
 Just type the command to find something.
